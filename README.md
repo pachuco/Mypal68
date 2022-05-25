@@ -6,9 +6,9 @@ A web browser aiming to backport Mozilla Quantum engine from Firefox 68 to older
 
 ![image](https://user-images.githubusercontent.com/19492771/152347482-f51058cd-2967-4bc5-80fd-5d269c328774.png)
 
-## Installation
+## Installation and usage
 
-Download from [releases directory](https://github.com/Feodor2/Mypal68/releases) and extract to folder.
+Download from [releases directory](https://github.com/Feodor2/Mypal68/releases) and extract to a folder.
 You may also run Mypal68 in portable configuration, see https://github.com/Feodor2/Mypal68/issues/67#issuecomment-1128732629.
 
 ## Compiling
